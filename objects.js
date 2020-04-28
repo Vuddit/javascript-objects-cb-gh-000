@@ -1,4 +1,4 @@
-var playlist = new Object({ artist: "song" })
+var playlist = new Object({ Swift: "Lover" })
 
 function updatePlaylist(obj, key, value) {
   return Object.assign(obj, { [key]: value })
